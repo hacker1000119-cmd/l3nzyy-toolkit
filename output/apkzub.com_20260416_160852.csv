@@ -1,0 +1,13 @@
+Category,Finding,Details
+IP,IPv4,45.84.207.223
+Port,80/HTTP,Open
+Port,443/HTTPS,Open
+Port,3306/MySQL,Open
+Port,21/FTP,Open
+Port,443/HTTPS,Open
+Port,80/HTTP,Open
+Subdomain,www.apkzub.com,45.84.207.223
+Subdomain,autoconfig.apkzub.com,34.120.251.119
+Subdomain,ftp.apkzub.com,45.84.207.223
+Subdomain,autodiscover.apkzub.com,34.120.251.119
+Subdomain,ftp.apkzub.com,45.84.207.223

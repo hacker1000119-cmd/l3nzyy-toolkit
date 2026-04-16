@@ -1,0 +1,132 @@
+{
+    "tool_name": "Hacker L3NZYY Tool Kit",
+    "version": "2.0",
+    "author": "L3NZYY",
+    "target": "apkzub.com",
+    "scan_time": "2026-04-16 16:06:45",
+    "scan_duration": 126.85906958580017,
+    "ip_info": {
+        "ipv4": "45.84.207.223",
+        "ipv6": "2a02:4780:9:1826:0:35f4:d364:6"
+    },
+    "dns_records": {
+        "A": [
+            "45.84.207.223"
+        ],
+        "AAAA": [
+            "2a02:4780:9:1826:0:35f4:d364:6"
+        ],
+        "MX": [
+            "5 mx1.hostinger.pk.",
+            "10 mx2.hostinger.pk."
+        ],
+        "NS": [
+            "ns2.dns-parking.com.",
+            "ns1.dns-parking.com."
+        ],
+        "TXT": [
+            "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+        ],
+        "SOA": [
+            "ns1.dns-parking.com. dns.hostinger.com. 2026041601 10000 2400 604800 600"
+        ]
+    },
+    "whois_data": {
+        "domain_name": "APKZUB.COM",
+        "registrar": "GoDaddy.com, LLC",
+        "creation_date": "[datetime.datetime(2021, 12, 9, 9, 18, 12, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2021, 12, 9, 4, 18, 12, tzinfo=tzoffset('UTC', 0))]",
+        "expiration_date": "[datetime.datetime(2026, 12, 9, 9, 18, 12, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2026, 12, 9, 4, 18, 12, tzinfo=tzoffset('UTC', 0))]",
+        "updated_date": "[datetime.datetime(2025, 12, 5, 15, 58, 32, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2025, 12, 5, 10, 58, 31, tzinfo=tzoffset('UTC', 0))]",
+        "name_servers": [
+            "NS1.DNS-PARKING.COM",
+            "NS2.DNS-PARKING.COM"
+        ],
+        "status": [
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+        ],
+        "emails": "abuse@godaddy.com",
+        "org": "Domains By Proxy, LLC",
+        "address": [
+            "DomainsByProxy.com",
+            "100 S. Mill Ave, Suite 1600"
+        ],
+        "city": "Tempe",
+        "state": "Arizona",
+        "zipcode": null,
+        "country": "US"
+    },
+    "subdomains": [
+        {
+            "subdomain": "www.apkzub.com",
+            "ip": "45.84.207.223",
+            "http_status": "N/A"
+        },
+        {
+            "subdomain": "autoconfig.apkzub.com",
+            "ip": "34.120.251.119",
+            "http_status": 200
+        },
+        {
+            "subdomain": "ftp.apkzub.com",
+            "ip": "45.84.207.223",
+            "http_status": "N/A"
+        },
+        {
+            "subdomain": "autodiscover.apkzub.com",
+            "ip": "34.120.251.119",
+            "http_status": 200
+        },
+        {
+            "subdomain": "ftp.apkzub.com",
+            "ip": "45.84.207.223",
+            "http_status": "N/A"
+        }
+    ],
+    "open_ports": [
+        {
+            "port": 80,
+            "service": "HTTP",
+            "state": "open",
+            "banner": ""
+        },
+        {
+            "port": 443,
+            "service": "HTTPS",
+            "state": "open",
+            "banner": ""
+        },
+        {
+            "port": 3306,
+            "service": "MySQL",
+            "state": "open",
+            "banner": ""
+        },
+        {
+            "port": 21,
+            "service": "FTP",
+            "state": "open",
+            "banner": "220 FTP Server ready."
+        },
+        {
+            "port": 443,
+            "service": "HTTPS",
+            "state": "open",
+            "banner": ""
+        },
+        {
+            "port": 80,
+            "service": "HTTP",
+            "state": "open",
+            "banner": ""
+        }
+    ],
+    "web_tech": {},
+    "ssl_info": {},
+    "directories": [],
+    "emails": [],
+    "links": [],
+    "vulnerabilities": []
+}
